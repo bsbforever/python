@@ -1,4 +1,6 @@
-python
+Hello Word!
 ======
 
-python
+My first responsitory on Git
+
+I love winnie!
